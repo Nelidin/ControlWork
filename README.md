@@ -44,7 +44,7 @@
 
 ## ПРОГРАММА:
 
-**Program.cs** 
+**Program.cs** https://github.com/Nelidin/ControlWork
 
 **Примеры вывода:**
 
